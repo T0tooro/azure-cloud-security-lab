@@ -24,14 +24,15 @@ A hands-on learning project to develop practical cloud security engineering skil
 
 ## 📚 Project Phases
 
-### Phase 1: Foundation (In Progress 🚧)
+### Phase 1: Foundation ✅ COMPLETED
 - [x] Azure account setup with MFA
 - [x] GitHub repository created
-- [ ] Cost management configuration
-- [ ] Virtual Network creation
-- [ ] Network Security Groups setup
+- [x] Cost management configuration
+- [x] Virtual Network creation
+- [x] Network Security Groups setup
+**[📖 View Phase 1 Documentation](docs/phase1-foundation.md)**
 
-### Phase 2: VM Deployment (Upcoming)
+### Phase 2: VM Deployment (In Progress 🚧)
 - [ ] Deploy Virtual Machine in private subnet
 - [ ] Configure Azure Bastion
 - [ ] Install and secure web server
