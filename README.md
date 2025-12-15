@@ -19,8 +19,6 @@ A hands-on learning project to develop practical cloud security engineering skil
 - Configure security monitoring and alerts
 - Gain hands-on Azure experience
 
-## 🏗️ Architecture
-[Architecture diagram will be added here]
 
 ## 📚 Project Phases
 
