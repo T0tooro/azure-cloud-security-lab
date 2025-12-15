@@ -32,12 +32,16 @@ A hands-on learning project to develop practical cloud security engineering skil
 - [x] Network Security Groups setup
 **[📖 View Phase 1 Documentation](docs/phase1-foundation.md)**
 
-### Phase 2: VM Deployment (In Progress 🚧)
-- [ ] Deploy Virtual Machine in private subnet
-- [ ] Configure Azure Bastion
-- [ ] Install and secure web server
+### Phase 2: VM Deployment ✅ COMPLETED
+- [x] Deploy Linux VM in private subnet
+- [x] Configure SSH key authentication
+- [x] Install Apache web server
+- [x] Create custom webpage
+- [x] Configure NSG firewall rules
+- [x] Verify network security
+**[📖 View Phase 2 Documentation](docs/phase2-vm-deployment.md)**
 
-### Phase 3: Security Hardening (Upcoming)
+### Phase 3: Security Hardening (In Progress 🚧)
 - [ ] Implement WAF rules
 - [ ] Configure encryption
 - [ ] Set up IAM roles
@@ -53,7 +57,10 @@ Detailed documentation for each phase will be added in the `/docs` folder as the
 ## 📅 Timeline
 **Start Date:** December 10, 2024  
 **Expected Completion:** January 2025  
-**Status:** Phase 1 In Progress 🚧
+**Status:** 
+✅ **Phase 1:** Complete  
+✅ **Phase 2:** Complete  
+⏳ **Phase 3:** Starting Soon
 
 ---
 
