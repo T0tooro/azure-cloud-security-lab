@@ -39,10 +39,14 @@ A hands-on learning project to develop practical cloud security engineering skil
 - [x] Verify network security
 **[📖 View Phase 2 Documentation](docs/phase2-vm-deployment.md)**
 
-### Phase 3: Security Hardening (In Progress 🚧)
-- [ ] Implement WAF rules
-- [ ] Configure encryption
-- [ ] Set up IAM roles
+### Phase 3: Security Hardening ✅ COMPLETED
+- [x] Remove public IP from VM (attack surface elimination)
+- [x] Verify VM inaccessible from internet
+- [x] Test network isolation with multiple vectors
+- [x] Confirm NSG firewall functioning correctly
+- [x] Validate defense-in-depth architecture
+
+**[📖 View Phase 3 Documentation](docs/phase3-security-hardening.md)**
 
 ### Phase 4: Monitoring & Response (Upcoming)
 - [ ] Azure Monitor dashboards
@@ -55,10 +59,11 @@ Detailed documentation for each phase will be added in the `/docs` folder as the
 ## 📅 Timeline
 **Start Date:** December 10, 2024  
 **Expected Completion:** January 2025  
-**Status:** 
-✅ **Phase 1:** Complete  
-✅ **Phase 2:** Complete  
-⏳ **Phase 3:** Starting Soon
+## Current Status
+✅ **Phase 1:** Complete - Network Foundation  
+✅ **Phase 2:** Complete - VM & Web Server Deployment  
+✅ **Phase 3:** Complete - Security Hardening  
+🎯 **Phase 4:** Final Documentation & Cleanup (In Progress)
 
 ---
 
