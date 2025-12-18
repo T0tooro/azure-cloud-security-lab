@@ -72,7 +72,6 @@ Detailed documentation for each phase will be added in the `/docs` folder as the
 🎉 **PROJECT COMPLETE!**
 
 ✅ **Phase 1:** Network Foundation (Complete)
-
 ✅ **Phase 2:** VM & Web Server Deployment (Complete)  
 ✅ **Phase 3:** Security Hardening (Complete)  
 ✅ **Phase 4:** Monitoring & Response (Complete)
