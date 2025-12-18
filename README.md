@@ -50,10 +50,16 @@ A hands-on learning project to develop practical cloud security engineering skil
 
 **[📖 View Phase 3 Documentation](docs/phase3-security-hardening.md)**
 
-### Phase 4: Monitoring & Response (Upcoming)
-- [ ] Azure Monitor dashboards
-- [ ] Security alerts configuration
-- [ ] Incident response testing
+### Phase 4: Monitoring & Response ✅ COMPLETED
+- [x] Create Log Analytics workspace
+- [x] Enable VM Insights for performance monitoring
+- [x] Build custom monitoring dashboard
+- [x] Configure alert rules with 80% CPU threshold
+- [x] Set up email notifications via action groups
+- [x] Test alert system (successfully triggered at 89.94% CPU!)
+- [x] Verify monitoring working end-to-end
+
+**[📖 View Phase 4 Documentation](docs/phase4-monitoring.md)**
 
 ## 📝 Documentation
 Detailed documentation for each phase will be added in the `/docs` folder as the project progresses.
@@ -62,10 +68,17 @@ Detailed documentation for each phase will be added in the `/docs` folder as the
 **Start Date:** December 10, 2024  
 **Expected Completion:** January 2025  
 ## Current Status
-✅ **Phase 1:** Complete - Network Foundation  
-✅ **Phase 2:** Complete - VM & Web Server Deployment  
-✅ **Phase 3:** Complete - Security Hardening  
-🎯 **Phase 4:** Final Documentation & Cleanup (In Progress)
+
+🎉 **PROJECT COMPLETE!**
+
+✅ **Phase 1:** Network Foundation (Complete)
+✅ **Phase 2:** VM & Web Server Deployment (Complete)  
+✅ **Phase 3:** Security Hardening (Complete)  
+✅ **Phase 4:** Monitoring & Response (Complete)
+
+**Total Cost:** $0.59   
+**Resources Deployed:** 12  
+**Screenshots Captured:** 14
 
 ---
 
