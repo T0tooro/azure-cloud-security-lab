@@ -28,6 +28,7 @@ A hands-on learning project to develop practical cloud security engineering skil
 - [x] Cost management configuration
 - [x] Virtual Network creation
 - [x] Network Security Groups setup
+
 **[📖 View Phase 1 Documentation](docs/phase1-foundation.md)**
 
 ### Phase 2: VM Deployment ✅ COMPLETED
@@ -37,6 +38,7 @@ A hands-on learning project to develop practical cloud security engineering skil
 - [x] Create custom webpage
 - [x] Configure NSG firewall rules
 - [x] Verify network security
+
 **[📖 View Phase 2 Documentation](docs/phase2-vm-deployment.md)**
 
 ### Phase 3: Security Hardening ✅ COMPLETED
