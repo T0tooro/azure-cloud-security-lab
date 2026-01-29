@@ -65,8 +65,8 @@ A hands-on learning project to develop practical cloud security engineering skil
 Detailed documentation for each phase will be added in the `/docs` folder as the project progresses.
 
 ## 📅 Timeline
-**Start Date:** December 10, 2024  
-**Expected Completion:** January 2025  
+**Start Date:** Nov 10, 2025  
+**Expected Completion:** Dec 24 2025  
 ## Current Status
 
 🎉 **PROJECT COMPLETE!** All 4 phases successfully implemented and documented!
